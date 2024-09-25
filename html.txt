@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testimonials</title>
+    <link rel="stylesheet" href="testi.css">
+</head>
+<body>
+    <div class="container">
+        <div class="tests1">
+            <img src="https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmVzc2lvbmFsJTIwZ2lybHxlbnwwfDB8MHx8fDA%3D" alt="" class="card1">
+            <p class="desc1">"I felt lost and unsure of what career path to choose. Carrer Explorer's resources and assessments were invaluable in helping me identify my strengths and interests. The career exploration tools opened my eyes to possibilities I hadn't even considered before. Now, I'm excited to start my journey in IT Industry thanks to the guidance I received here. Thanks!" </p> 
+            <p class="name1"> - Sarah Lee, Recent Graduate</p>
+        </div>
+        <div class="tests2">
+            <img src="https://images.unsplash.com/photo-1508243529287-e21914733111?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmVzc2lvbmFsJTIwZ3JhZHVhdGUlMjBib3l8ZW58MHwwfDB8fHww" alt="" class="card2">
+            <p class="desc2">"I was stuck in a job that didn't fulfill me anymore. I knew it was time for a change, but I wasn't sure where to start. This platform helped me re-evaluate my skills and explore new career options that aligned with my passions. The website's  resources provided a roadmap for navigating a career change, to pursue my dream job"</p>
+            <p class="name2"> - David Hernandez, Working Professional</p>
+        </div>
+        <div class="tests3">
+            <img src="https://images.unsplash.com/photo-1531299669378-dd18b44a8dbc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGNvbGxlZ2UlMjBnaXJsfGVufDB8MHwwfHx8MA%3D%3D" alt="" class="card3">
+            <p class="desc3">"I always doubted my abilities and never felt confident about pursuing my career goals. The personality assessments and career path roadmaps on this platform were a game-changer. They helped me understand myself better and discover hidden talents I never knew I possessed. Now, I'm actively working towards my dream job in Marketing" </p>
+            <p class="name3">- Lisa Jackson, College Student</p>
+        </div>
+        <div class="tests4">
+            <img src="https://images.unsplash.com/photo-1629360057380-18b15b42e650?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cGFyZW50fGVufDB8MHwwfHx8MA%3D%3D" alt="" class="card4">
+            <p class="desc4">"As a parent, I wanted to help my child explore different career options but wasn't sure where to begin. Carrer Explorer's provided the perfect resources for both of us!  Now, we have a clearer picture of my child's future and can work together to achieve their goals. Thanks for making career exploration a fun family activity!"</p>
+            <p class="name4">- Michael Garcia, Parent</p>
+        </div>
+    </div>
+</body>
+</html>
